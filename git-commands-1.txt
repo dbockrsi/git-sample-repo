@@ -10,3 +10,5 @@ got log
 Git diff <filename>
 
 test
+test2
+
